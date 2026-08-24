@@ -1,0 +1,108 @@
+.inventory-container{
+
+    padding:30px;
+    background:#f5f7fb;
+    min-height:100vh;
+
+}
+
+
+.inventory-container h1{
+
+    text-align:center;
+    color:#1e293b;
+
+}
+
+
+
+.inventory-form{
+
+    background:white;
+    padding:20px;
+    margin:20px auto;
+    width:400px;
+    border-radius:10px;
+
+}
+
+
+.inventory-form input{
+
+    width:100%;
+    padding:10px;
+    margin:8px 0;
+    border:1px solid #ccc;
+    border-radius:5px;
+
+}
+
+
+.inventory-form button{
+
+    width:100%;
+    padding:12px;
+    background:#2563eb;
+    color:white;
+    border:none;
+    border-radius:5px;
+    cursor:pointer;
+
+}
+
+
+
+.product-table{
+
+    background:white;
+    padding:20px;
+    border-radius:10px;
+
+}
+
+
+
+table{
+
+    width:100%;
+    border-collapse:collapse;
+
+}
+
+
+th,td{
+
+    padding:12px;
+    border-bottom:1px solid #ddd;
+    text-align:center;
+
+}
+
+
+.available{
+
+    color:green;
+    font-weight:bold;
+
+}
+
+
+.low{
+
+    color:red;
+    font-weight:bold;
+
+}
+
+
+
+.delete{
+
+    background:red;
+    color:white;
+    border:none;
+    padding:8px 15px;
+    border-radius:5px;
+    cursor:pointer;
+
+}
